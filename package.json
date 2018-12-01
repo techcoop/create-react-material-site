@@ -7,7 +7,7 @@
   "repository": "techcoop/create-react-material-site",
   "keywords": [],
   "files": [
-    "bin/"
+    "index.js"
   ],
   "devDependencies": {
     "standard-version": "^4.4.0"
@@ -15,7 +15,8 @@
   "scripts": {
     "release": "standard-version"
   },
+  "preferGlobal": true,
   "bin": {
-    "create-react-material-site": "./bin/index.js"
+    "create-react-material-site": "index.js"
   }
 }
