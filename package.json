@@ -1,6 +1,6 @@
 {
   "name": "create-react-material-site",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Creates sites using CRA and react-material-site",
   "author": "colingagnon",
   "license": "MIT",
