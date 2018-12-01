@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.1.2"></a>
+## [0.1.2](https://github.com/techcoop/create-react-material-site/compare/v0.1.0...v0.1.2) (2018-12-01)
+
+
+### Bug Fixes
+
+* Fixes files for bin ([#3](https://github.com/techcoop/create-react-material-site/issues/3)) ([950ef2e](https://github.com/techcoop/create-react-material-site/commit/950ef2e))
+
+
+
 <a name="0.1.0"></a>
 # 0.1.0 (2018-12-01)
 
