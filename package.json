@@ -16,6 +16,6 @@
     "release": "standard-version"
   },
   "bin": {
-    "react-material-site": "./index.js"
+    "create-react-material-site": "./index.js"
   }
 }
