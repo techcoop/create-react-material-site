@@ -1,0 +1,16 @@
+{
+  "name": "create-react-material-site",
+  "version": "0.0.0",
+  "description": "Creates sites using CRA and react-material-site",
+  "author": "colingagnon",
+  "license": "MIT",
+  "repository": "techcoop/create-react-material-site",
+  "keywords": [],
+  "files": [],
+  "bin": {
+    "react-material-site": "./index.js"
+  },
+  "devDependencies": {
+    "standard-version": "^4.4.0"
+  }
+}
